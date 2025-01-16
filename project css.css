@@ -1,0 +1,18 @@
+﻿h1 {
+	background-color: #105236;
+	font-family: "Lucida Handwriting";
+	font-size: large;
+	font-weight: bold;
+	color: #22B576;
+	background-position: center;
+	border-radius: 1px;
+	font-variant: normal;
+	text-decoration: underline;
+	border-width: medium;
+}
+body {
+	background-color: #225C3D;
+	background-image: url('../Pictures/WhatsApp Image 2025-01-15 at 11.41.07 PM.jpeg');
+	background-repeat: repeat;
+	background-position: center;
+}
